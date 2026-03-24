@@ -846,7 +846,7 @@ def ask_groq(prompt, model="openai/gpt-3.5-turbo", data=None, api_type="groq"):
 
 def ask_groq_api(prompt, model="openai/gpt-3.5-turbo", data=None):
     """Send a comprehensive prompt to OpenRouter API for dynamic EDA analysis"""
-    api_key = "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"  # Replace with your OpenRouter API key
+    api_key = "your_API_Key" # Replace with your OpenRouter API key
     url = "https://openrouter.ai/api/v1/chat/completions"
     
     if data is not None and isinstance(data, pd.DataFrame):
