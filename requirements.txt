@@ -1,0 +1,75 @@
+# Core Dependencies
+Streamlit
+LangChain
+SQLAlchemy
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+requests
+pandasql
+openpyxl
+pyarrow
+
+# Big Data Processing (Optional - install separately if needed)
+# pyspark  # Requires Python < 3.13
+dask
+polars
+duckdb
+
+# Interactive Dashboards
+dash
+bokeh
+altair
+streamlit-aggrid
+
+# Automated EDA Reports (Optional - install separately if needed)
+# ydata-profiling  # Not available for Python 3.13
+# sweetviz  # May have compatibility issues
+# autoviz  # May have compatibility issues
+reportlab
+jinja2
+
+# Advanced Analytics
+scikit-learn
+scipy
+statsmodels
+# prophet  # May have compatibility issues
+
+# Data Quality & Cleaning
+# great-expectations  # May have compatibility issues
+# pandera  # May have compatibility issues
+missingno
+
+# Cloud & API Integration
+boto3
+# google-cloud-bigquery  # May have compatibility issues
+# snowflake-connector-python  # May have compatibility issues
+fastapi
+uvicorn
+
+# Performance & Optimization
+numba
+# cython  # May have compatibility issues
+joblib
+
+# Additional Visualization
+plotly-express
+plotly-graph-objects
+kaleido
+
+# File Processing
+PyPDF2
+python-docx
+openpyxl
+xlrd
+
+# Database
+sqlite3
+# psycopg2-binary  # May have compatibility issues
+
+# Utilities
+python-dotenv
+tqdm
+rich

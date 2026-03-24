@@ -1,0 +1,16 @@
+Streamlit
+LangChain
+SQLAlchemy
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+requests
+pandasql
+openpyxl
+pyarrow
+reportlab
+Pillow
+kaleido
+PyPDF2
